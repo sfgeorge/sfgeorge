@@ -1,6 +1,16 @@
-### Hi there 👋
+### Stephen George's GitHub Profile
+
 
 <!--
+
+
+<details>
+    <summary>I have keys but no doors. I have space but no room. You can enter but can’t leave. What am I?</summary>
+    A keyboard.
+</details>
+
+- 😄 Pronouns: hi/him
+
 **sfgeorge/sfgeorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
